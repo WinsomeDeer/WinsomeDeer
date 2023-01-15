@@ -1,4 +1,4 @@
-Welcome to my Github page.
+Welcome to my Github page!
 
 I'm a Mathematics undergraduate & postgraduate from Newcastle University and Durham University. I mainly focus on Data analysis, Computational Mathematics and Mathematical Physics.
 
