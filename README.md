@@ -4,4 +4,6 @@ I'm a Mathematics (BSc) undergraduate from Newcastle University & Mathematical S
 
 Here you can find my personal projects based on subjects of academic and personal interest, all of which are written in either Python, Cython or C++.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand&layout=compact&theme=dark"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=zluvsand&show_icons=true&theme=dark"/>
